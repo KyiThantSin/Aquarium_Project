@@ -188,8 +188,10 @@ footer{
 }
 
 /*for mobile phone*/
-@media only screen and (max-width:740px){
-
+@media only screen and (max-width:800px){
+    body{
+        margin-left:2px;
+    }
     .sec_title{
         margin-top: 65%;
         color:gold;     
@@ -213,8 +215,12 @@ footer{
     .header-text{
         font-size: 60px;
     }
+    #show_menu{
+        width: 43px;
+        left: 300px; 
+    }
     .menu{
-        width: 92%;
+        width: 80%;
     }
     .third_Rpic{
         margin-top: 30px;
