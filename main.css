@@ -200,7 +200,6 @@ footer{
         color:gold;
         font-size:xx-large;
     }
-    
     article{
         width: 100%;
         margin-top: 0;
@@ -222,6 +221,10 @@ footer{
     .menu{
         width: 80%;
     }
+    #dolphin{
+        width:80%;
+    }
+    
     .third_Rpic{
         margin-top: 30px;
     }
